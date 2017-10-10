@@ -11,5 +11,5 @@
     "keboola/csv": "~1.0",
     "keboola/php-temp": "~0.1",
     "symfony/process": "~3.0"
-  },
+  }
 }
